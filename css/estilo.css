@@ -1,0 +1,120 @@
+*{margin: 0px;}
+.cabeza{
+    background-color: chocolate;
+    position: relative;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    top: 100px;
+    left: 200px;
+}
+.ojo1{
+    background-color: rgb(195, 208, 219);
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    border-radius: 100px;
+    top: 25px;
+    left: 25px;
+}
+.ojo2{
+    background-color: rgb(195, 208, 219);
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    border-radius: 100px;
+    top: 25px;
+    left: 60px;
+}
+.nariz{
+    background-color: rgb(5, 5, 5);
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    border-radius: 100px;
+    top: 40px;
+    left: 43px;
+}
+.boca{
+    background-color: rgb(146, 92, 40);
+    position: absolute;
+    height: 15px;
+    width: 50px;
+    border-radius: 100px;
+    top: 60px;
+    left: 25px;
+}
+.cuerpo{
+    background-color: chocolate;
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    top: 100px;
+    left: 175px;
+}
+.centro{
+    background-color: coral;
+    position: absolute;
+    height: 70px;
+    width: 40px;
+    border-radius: 100px;
+    top: 35px;
+    left: 55px;
+}
+.oreja1{
+    background-color: chocolate;
+    height: 25px;
+    width: 30px;
+    border-radius: 100px;
+    position: fixed;
+    top: 100px;
+    left: 280px;
+}
+.oreja2{
+    background-color: chocolate;
+    height: 25px;
+    width: 30px;
+    border-radius: 100px;
+    position: fixed;
+    top: 100px;
+    left: 190px;
+}
+.brazo1{
+    background-color: chocolate;
+    height: 35px;
+    width: 70px;
+    position: fixed;
+    border-radius: 100px;
+    top: 210px;
+    left: 290px;
+
+}
+.brazo2{
+    background-color: chocolate;
+    height: 35px;
+    width: 70px;
+    position: fixed;
+    border-radius: 100px;
+    top: 210px;
+    left: 150px;
+
+}
+.pie1{
+    background-color: chocolate;
+    height: 40px;
+    width: 60px;
+    position: fixed;
+    border-radius: 100px;
+    top: 320px;
+    left: 280px;
+}
+.pie2{
+    background-color: chocolate;
+    height: 40px;
+    width: 60px;
+    position: fixed;
+    border-radius: 100px;
+    top: 320px;
+    left: 160px;
+}
